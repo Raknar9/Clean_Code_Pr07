@@ -215,4 +215,4 @@ map.put('!',costo("-.-.--"));
 
 }
 ```
-Como se puede ver esta manera mas resumida la cual esta mejor estructurado que el primer ejemplo que se mostro.
+Como se puede ver esta manera mas resumida la cual esta mejor estructurado que el primer ejemplo que se mostró.
