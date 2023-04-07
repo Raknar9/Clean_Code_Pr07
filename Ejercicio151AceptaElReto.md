@@ -81,7 +81,7 @@ public class ejercicio151Corregido {
             }
         }
 
-        scanner.close();
+        
     }
 } 
 ```
